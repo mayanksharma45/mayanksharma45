@@ -60,10 +60,11 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 --- -->
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-ffffff?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mayank-sharma-8b47b72a8/)
-[![Instagram](https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/mayank_sharma__45/)
-[![YouTube](https://img.shields.io/badge/-ffffff?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@Mayank29-d2o)
-[![Twitter](https://img.shields.io/badge/-ffffff?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://x.com/MayankS53324739)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-8b47b72a8/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mayank_sharma__45/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Mayank29-d2o)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter&logoColor=white)](https://x.com/MayankS53324739)
+
 
 
 ----------

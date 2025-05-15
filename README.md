@@ -22,7 +22,6 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 ### 🛠️ Tech Stack & Tools
   
 **Languages & Frameworks:**  
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](    https://www.tensorflow.org)
@@ -31,17 +30,17 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](    https://huggingface.co)
 
 **Tools & Platforms:**  
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
-<!-- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) -->
-<!-- ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman) -->
-[![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://www.mysql.com)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com)
+<p align="center">
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code"></a>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi"></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws"></a>
+  <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud"></a>
+  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure"></a>
+</p>
 
 ----------
 

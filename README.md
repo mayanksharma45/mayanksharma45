@@ -30,17 +30,16 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](    https://huggingface.co)
 
 **Tools & Platforms:**  
-<p align="center">
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"></a>
-  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code"></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb"></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi"></a>
-  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws"></a>
-  <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud"></a>
-  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure"></a>
-</p>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code"></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb"></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi"></a>
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws"></a>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud"></a>
+<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure"></a>
+
 
 ----------
 
@@ -65,7 +64,6 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/mayank_sharma__45/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@Mayank29-d2o)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/MayankS53324739)
-  
 
 ----------
 

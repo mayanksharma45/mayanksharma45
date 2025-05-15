@@ -1,8 +1,6 @@
-## 👋Hey! Glad to see you!
+## 👋Hey! Glad to see you!  
 ---
-                                                        ## I'm Mayank😀  
----
-#### 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP | 🔗 LangChain | 💡 Generative AI | 🕸️ Agentic AI
+### 🤖 Machine Learning | 🧠 Deep Learning | 💬 NLP | 🔗 LangChain | 💡 Generative AI | 🕸️ Agentic AI
 ----------
 ### 🚀 About Me
 I'm a passionate and curious **AI/ML** who loves building intelligent systems that can **learn, adapt, and assist**. I’ve been diving deep into:
@@ -17,8 +15,7 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 - ✅ Cloud Computing with AWS, GCP 
 ----------
 ### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**  
+  
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,15 +24,18 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**DevOps & Tools:**  
+**Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
 ----------
 ### 🎯 Current Goals
 - 🔬 Building end-to-end AI applications

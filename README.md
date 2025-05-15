@@ -60,10 +60,11 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 --- -->
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayank-sharma-8b47b72a8/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/mayank_sharma__45/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@Mayank29-d2o)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/MayankS53324739)
+[![LinkedIn](https://img.shields.io/badge/-ffffff?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mayank-sharma-8b47b72a8/)
+[![Instagram](https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/mayank_sharma__45/)
+[![YouTube](https://img.shields.io/badge/-ffffff?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@Mayank29-d2o)
+[![Twitter](https://img.shields.io/badge/-ffffff?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://x.com/MayankS53324739)
+
 
 ----------
 
@@ -71,5 +72,8 @@ I'm a passionate and curious **AI/ML** who loves building intelligent systems th
 > Apart from AI, I enjoy **singing**, **traveling**, **Playing** and constantly learning new tech that shapes the future!
 
 ----------
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksharma45&show_icons=true&locale=en&layout=compact)
+
 
 _⭐️ Always open to collaborations and building something impactful together!_
